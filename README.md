@@ -1,5 +1,8 @@
 ### Hi there 👋I am Chetan Anand
     I am an aspiring full-stack software developer.
+    I have learned Html,CSS, JS, jQuery and currently learning Ruby,Python , Mongo DB , SQL.
+    i Use VS code, Git and Github for colaboration.
+    Reach to me at my Email: chetananandgupta@gmail.com
 
 <!--
 **chetan2088/chetan2088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
