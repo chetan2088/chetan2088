@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Html, CSS, Javascript, jQuery
-- 🌱 I’m currently learning ...Python, Postman, Ruby, SQL
+- 🌱 I’m currently learning ...Python, Postman, Ruby, SQL, mongo, linux and many more.
 - 👯 I’m looking to collaborate on ...Git, GitHub , VS code
 - 🤔 I’m looking for help with ...My team 
 - 💬 Ask me about ...anything, ready to contribute the max as per my limited knowledge and skills
