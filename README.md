@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...anything, ready to contribute the max as per my limited knowledge and skills
 - 📫 How to reach me: ...email at chetanguptasarai@gmail.com, or create a PR at this repository
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...koool
+- ⚡ Fun fact: ...meditation
 -->
