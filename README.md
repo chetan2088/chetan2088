@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...email at chetanguptasarai@gmail.com, or create a PR at this repository
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...meditation
--->
+--><!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
