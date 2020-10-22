@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...meditation
 --><!--START_SECTION:waka-->
 ```text
-JSX          52 mins         ███████████████▒░░░░░░░░░   61.94 % 
-JavaScript   31 mins         █████████░░░░░░░░░░░░░░░░   36.52 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JSX          1 hr 45 mins    ██████████████████░░░░░░░   71.97 % 
+JavaScript   34 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.24 % 
+HTML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 <!--END_SECTION:waka-->
 
