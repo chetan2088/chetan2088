@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...meditation
 --><!--START_SECTION:waka-->
 ```text
-JavaScript   59 mins         ██████████████████████░░░   87.96 % 
-Markdown     8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+JavaScript   59 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
