@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...meditation
 --><!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   15 mins         ███████████████▒░░░░░░░░░   61.03 % 
+HTML         9 mins          █████████▓░░░░░░░░░░░░░░░   38.33 % 
 ```
 <!--END_SECTION:waka-->
 
