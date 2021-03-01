@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...meditation
 --><!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML    25 mins         ████████████████████████▓   98.53 % 
 ```
 <!--END_SECTION:waka-->
 
